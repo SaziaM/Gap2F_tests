@@ -27,9 +27,6 @@ As the file is not in SMBL file format and not in TSV format concluded that it w
 
 "H2O[r] + glucose-6-phosphate[r] => Pi[r] + glucose[r]"
 
-"H2O2[p] + ethanol[p] => 2 H2O[p] + acetaldehyde[p]"
-
-"H+[c] + NADPH[c] + O2[c] + ethanol[c] => 2 H2O[c] + NADP+[c] + acetaldehyde[c]"
 
 
 ***Hard: Load the glycolysis file and identify which functions produce H2O as product.
