@@ -1,9 +1,7 @@
 # Gap2F_tests
 ***Easy: Install sybil, sybilSBML and RbioRXN from CRAN.
 
-For sybilSBML had to install libSMBL 5.12.0
-For RbioRXN had to install 3 packages from Bioconductor:
-CheminneR, fmcsR, KEGGREST.
+Installed successfully with the required packages.
 
 ***Medium: Load the glycolysis file and identify which functions requires H2O. https://gist.github.com/ampinzonv/c763c7a9d147aecec721
 As the file is not in SMBL file format and not in TSV format concluded that it was supposed to be manually solved.
