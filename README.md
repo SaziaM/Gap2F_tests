@@ -1,12 +1,10 @@
 # Gap2F_tests
 ***Easy: Install sybil, sybilSBML and RbioRXN from CRAN.
 
-For sybilSBML had to install libSMBL 5.12.0
-For RbioRXN had to install 3 packages from Bioconductor:
-CheminneR, fmcsR, KEGGREST.
+Installed successfully with the required packages.
 
 ***Medium: Load the glycolysis file and identify which functions requires H2O. https://gist.github.com/ampinzonv/c763c7a9d147aecec721
-As the file is not in SMBL file format and not in TSV format concluded that it was supposed to be manually solved.
+
 
 
 "H2O[c] + NADP+[c] + acetaldehyde[c] => H+[c] + NADPH[c] + acetate[c]"
@@ -27,9 +25,6 @@ As the file is not in SMBL file format and not in TSV format concluded that it w
 
 "H2O[r] + glucose-6-phosphate[r] => Pi[r] + glucose[r]"
 
-"H2O2[p] + ethanol[p] => 2 H2O[p] + acetaldehyde[p]"
-
-"H+[c] + NADPH[c] + O2[c] + ethanol[c] => 2 H2O[c] + NADP+[c] + acetaldehyde[c]"
 
 
 ***Hard: Load the glycolysis file and identify which functions produce H2O as product.
